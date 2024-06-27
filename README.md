@@ -90,7 +90,14 @@ El conjunto de datos también incluye un campo category_id, que varía entre reg
 -   Los videos en tendencia tienden a recibir una mayor cantidad de comentarios positivos, lo que sugiere una alta participación y discusión entre los usuarios. 
 
 ## Conclusiones del análisis 
+###  Perseverancia en la Búsqueda de Insights:
+    
 
+Uno de los puntos cruciales del proyecto ha sido la necesidad de perseverar en la búsqueda de insights significativos. A menudo, los descubrimientos más valiosos no se revelan de inmediato, requiriendo múltiples iteraciones y análisis detallados de los datos.
+### Metodología CRISP-DM como Guía:
+    
+
+La aplicación de la metodología CRISP-DM ha proporcionado una estructura clara para el desarrollo del proyecto. Identificar adecuadamente las etapas de comprensión del negocio, comprensión de los datos, preparación de los datos, modelado, evaluación y despliegue ha facilitado el progreso metódico y la gestión eficiente de los recursos.
 ## Licencia de uso
 https://creativecommons.org/publicdomain/zero/1.0/ 
 
